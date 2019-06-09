@@ -39,7 +39,7 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 ## Tareas que se deben realizar al recibir un grupo nuevo
 
-* **Crear cohort y añadir miembros:** Se debe crear el cohort correspondiente al bloque que se está por comenzar, añadiendo a las estudiantes y al team formación, estos últimos como _admins_. Una vez creado el cohort se deben agregar los cursos correspondientes. (Los cohorts de otras generaciones sirven como guía).
+* **Crear cohort y añadir miembros:** En el LMS se debe crear el cohort correspondiente al bloque que se está por comenzar, añadiendo a las estudiantes y al team formación, estos últimos como _admins_. Una vez creado el cohort se deben agregar los cursos correspondientes. (Los cohorts de otras generaciones sirven como guía).
 
 * **Revisar proyectos y fechas:** Ver los proyectos que se deben realizar, sus fechas y ojalá desarrollarlos para visualizar los temas que podrían ser complicados para las estudiantes.
 
