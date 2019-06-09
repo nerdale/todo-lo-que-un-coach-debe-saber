@@ -43,7 +43,7 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * **Revisar proyectos y fechas:** Ver los proyectos que se deben realizar, sus fechas y ojalá desarrollarlos para visualizar los temas que podrían ser complicados para las estudiantes.
 
-* **Planificar semana por semana cada proyecto:** Se debe planificar cada semana para que las estudiantes cada **Lunes** tengan claridad de lo que sucederá en los próximos días, esto incluye _talleres de soft skills_, _office hours ,tiempo de hacking, dailys, demos, presentaciones finales_ etc.
+* **Planificar semana por semana cada proyecto:** Se debe planificar cada semana para que las estudiantes cada **Lunes** tengan claridad de lo que sucederá en los próximos días, esto incluye _talleres de soft skills_, _office hours ,tiempo de hacking, dailys, demos, presentaciones finales, retrospectivas_ etc.
 
 ## Cómo funciona el día a día de un coach en SCL
 
