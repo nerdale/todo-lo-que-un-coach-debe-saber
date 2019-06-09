@@ -63,6 +63,10 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * **Presencia en la sala:** La presencia de los coaches es esencial, aunque estén concentradas trabajando, estar para ellas en el mismo espacio es sumamente importante. De igual manera se sugiere dar un par de vueltas durante la clase preguntando a cada squad como van y animar a las más tímidas a conversar sus dudas / problemas en ese momento para poder guíarlas.
 
+* **Enviar Sprint Checkout:** Terminado cada sprint se debe enviar el formulario de **sprint checkout** correspondiente de la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento de estas respuestas, especialmente los auxilios y si es necesario conversar algunos con las psicólogas.
+
+* **Enviar Project Checkout:** Terminado cada proyecto se debe enviar el formulario de **project checkout** correspondiente a la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento del feedback recibido por cada estudiante.
+
 * **Office Hours:** Estos son espacios extras de 2 horas 2 veces a la semana, donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. También se pueden realizar durante clases una cantidad de tiempo específico para cada estudiante / equipo / squad.
 
 * **SENCE:** En el caso que el grupo se encuentre con SENCE, hay una serie de temas que resolver antes y durante el "senceo".
