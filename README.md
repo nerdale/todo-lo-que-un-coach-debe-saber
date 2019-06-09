@@ -67,7 +67,9 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * **Enviar Project Checkout:** Terminado cada proyecto se debe enviar el formulario de **project checkout** correspondiente a la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento del feedback recibido por cada estudiante.
 
-* **Office Hours:** Estos son espacios extras de 2 horas 2 veces a la semana, donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. También se pueden realizar durante clases una cantidad de tiempo específico para cada estudiante / equipo / squad.
+* **Office Hours fuera del horario de clases:** Estos son espacios extras de 2 horas 2 veces a la semana, donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. 
+
+* **Office Hours durante clases:** Espacios que se dan durante el horario de clases por una cantidad de tiempo específico para cada estudiante / equipo / squad.
 
 * **SENCE:** En el caso que el grupo se encuentre con SENCE, hay una serie de temas que resolver antes y durante el "senceo".
     - El primer día de **SENCE** se deben enrolar a las estudiantes una por una, si alguna faltó ese día, cuando vuelva se debe enrolar inmediatamente.
