@@ -72,6 +72,10 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
     - Verificar que las estudiantes ingresen al sistema con su dedo sin falta.
 
+    - El coach enrolado debe **iniciar la clase** puntualmente con su huella.
+
+    - Verificar que las estudiantes al terminar la jornada salgan del sistema, el coach enrolado es el último en salir de este e informar la asistencia en el programa.
+
 
 ***
 
