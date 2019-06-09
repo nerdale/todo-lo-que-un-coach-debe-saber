@@ -67,7 +67,7 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * **Enviar Project Checkout:** Terminado cada proyecto se debe enviar el formulario de **project checkout** correspondiente a la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento del feedback recibido por cada estudiante.
 
-* **Office Hours fuera del horario de clases:** Estos son espacios extras de 2 horas 2 veces a la semana, donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. 
+* **Office Hours fuera del horario de clases:** Estos son espacios extras de 2 horas 2 veces a la semana (total de 4 horas a la semana), donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. 
 
 * **Office Hours durante clases:** Espacios que se dan durante el horario de clases por una cantidad de tiempo específico para cada estudiante / equipo / squad.
 
