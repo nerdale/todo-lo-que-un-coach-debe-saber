@@ -47,7 +47,7 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 ## Cómo funciona el día a día de un coach en SCL
 
-* **Asistencia:** Lamentablemente no tenemos un sistema automatizado para la asistencia por lo que cada dupla de coach debe organizarse para anotar. De esto es importante saber:
+* **Asistencia:** Lamentablemente no tenemos un sistema automatizado para la asistencia por lo que cada dupla de coach debe organizarse para anotar. Se toman **10 minutos** de margen para la llegada de las estudiantes, luego de esos 10 minutos comienzan a correr las tardanzas. De esto es importante saber:
   - Faltas Justificadas: **FJ** corresponde a las faltas que las estudiantes avisan y son reales problemas para asistir a clases, como por ejemplo: hijos enfermos, enfermedad de ellas mismas, trámites urgentes etc.
 
   - Faltas Injustificadas: **FI** corresponde a las faltas donde la estudiante no avisa o no justifica una falta con un argumento de peso, como por ejemplo: "me quedé dormida y no voy", "me quedé trabajando hasta tarde en el proyecto y tengo sueño".
