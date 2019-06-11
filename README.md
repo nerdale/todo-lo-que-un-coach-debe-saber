@@ -63,7 +63,7 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * **Presencia en la sala:** La presencia de los coaches es esencial, aunque estén concentradas trabajando, estar para ellas en el mismo espacio es sumamente importante. De igual manera se sugiere dar un par de vueltas durante la clase preguntando a cada squad como van y animar a las más tímidas a conversar sus dudas / problemas en ese momento para poder guíarlas.
 
-* **Enviar Sprint Checkout:** Terminado cada sprint se debe enviar el formulario de **sprint checkout** correspondiente de la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento de estas respuestas, especialmente los auxilios y si es necesario conversar algunos con las psicólogas.
+* **Enviar Sprint Checkout:** Terminado cada sprint se debe enviar el formulario de **sprint checkout** correspondiente de la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento de estas respuestas, especialmente los auxilios y si es necesario conversar algunas con las psicólogas.
 
 * **Enviar Project Checkout:** Terminado cada proyecto se debe enviar el formulario de **project checkout** correspondiente a la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento del feedback recibido por cada estudiante.
 
