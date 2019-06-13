@@ -5,7 +5,9 @@
 
 * [¿De que se trata este proyecto?](#¿de-que-se-trata-este-proyecto?)
 * [Metodología Laboratoria](#metodología-laboratoria)
+* [Modelo ongoing](#modelo-ongoing)
 * [¿Ser coach es solo responder dudas?](#¿ser-coach-es-solo-responder-dudas?)
+* [Pre admisión](#pre-admisión)
 * [Tareas que se deben realizar al recibir un grupo nuevo](#tareas-que-se-deben-realizar-al-recibir-un-grupo-nuevo)
 * [Cómo funciona el día a día de un coach en SCL](#cómo-funciona-el-día-a-día-de-un-coach-en-SCL)
 * [Chapter Coaches](#chapter-coaches)
