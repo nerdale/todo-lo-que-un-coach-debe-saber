@@ -149,6 +149,8 @@ Al final de la semana y con todos los resultados tanto tech como soft, todo el e
     - El coach enrolado debe **iniciar la clase** puntualmente con su huella.
 
     - Verificar que las estudiantes al terminar la jornada salgan del sistema, el coach enrolado es el último en salir de este e informar la asistencia en el programa.
+    
+    - *Importante* Las estudiantes del track UX no sencean pues su flujo de trabajo se genera muchas veces fuera de Laboratoria, realizando testeos e investigaciones en terreno. 
 
 
 ***
