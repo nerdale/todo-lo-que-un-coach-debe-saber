@@ -20,7 +20,7 @@ La idea de este proyecto es ser un estilo de "guía" donde se documentará paso 
 
 ## Metodología Laboratoria
 
-En Laboratoria se aprende haciendo. Nuestras estudiantes se enfrentan a una [Ruta de Aprendizaje](https://docs.google.com/drawings/d/1NmDVTea4oHGAhbJ8_ygzFYII7NuumuiZxCunj-lNO20/edit) que está formada por un conjunto de proyectos que simulan situaciones del mundo real (no académico) y deben ir resolviendo durante todo el Bootcamp. Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de enfrentar su solución.
+En Laboratoria se aprende haciendo. Nuestras estudiantes se enfrentan a una [Ruta de Aprendizaje](https://docs.google.com/presentation/d/1mNrYuTiUmwtaYF5D0Y9hIuq0BL6-4tG8Dx0VnOn1G9A/edit?zx=d8fapwpt1bdy#slide=id.g48053b0010_0_3) que está formada por un conjunto de proyectos que simulan situaciones del mundo real (no académico) y deben ir resolviendo durante todo el Bootcamp. Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de enfrentar su solución.
 Te invito a leer más sobre todo el proceso en nuestra [wiki](https://sites.google.com/laboratoria.la/wiki).
 
 ***
