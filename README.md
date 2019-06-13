@@ -161,8 +161,12 @@ Al final de la semana y con todos los resultados tanto tech como soft, todo el e
 
 ### Chapter Coaches
 
-Cada 15 días se realiza el **Chapter de coaches**, espacio que intervala en los horarios AM y PM para que todos los coaches de distintos turnos puedan participar. Este es un chapter regional que se realiza a través de _hangouts_ y _youtube_ donde se conversan los updates de cada sede y algún tema específico que esté generando conversación en una o algunas sedes.
+Cada 15 días se realiza el **Chapter de coaches** (días miércoles), espacio que intervala en los horarios AM y PM para que todos los coaches de distintos turnos puedan participar. Este es un chapter regional que se realiza a través de _hangouts_ y _youtube_ donde se conversan los updates de cada sede y algún tema específico que esté generando conversación en una o algunas sedes.
 
 ### Dev Chapter
 
 Si bien es el chapter de lxs desarrolladorxs de Laboratoria que trabajan en distintos productos, está totalmente hecha la invitación para que lxs coaches, que también son desarrolladorxs y diseñadorxs de experiencias de usuario, participen cuando lo estimen conveniente.
+
+### UX Chapter
+
+Los miércoles a las 11:00 hora de Chile, todos los coaches de UX a nivel regional junto a Lalo Gonzalez *(UX Design and Sticker Director)* se juntan en una videollamada donde dan updates de lo que está pasando en cada sede, discuten como mejorar el feedback a las estudiantes, dificultades que han tenido, terminología, alinear visiones entre sede etc.
