@@ -25,6 +25,10 @@ La idea de este proyecto es ser un estilo de "guía" donde se documentará paso 
 En Laboratoria se aprende haciendo. Nuestras estudiantes se enfrentan a una [Ruta de Aprendizaje](https://docs.google.com/presentation/d/1mNrYuTiUmwtaYF5D0Y9hIuq0BL6-4tG8Dx0VnOn1G9A/edit?zx=d8fapwpt1bdy#slide=id.g48053b0010_0_3) que está formada por un conjunto de proyectos que simulan situaciones del mundo real (no académico) y deben ir resolviendo durante todo el Bootcamp. Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de enfrentar su solución.
 Te invito a leer más sobre todo el proceso en nuestra [wiki](https://sites.google.com/laboratoria.la/wiki).
 
+Los coaches deben tener la capacidad y flexibilidad de adaptarse a las necesidades de las estudiantes, para esto Diego Vélez (Product Manager Bootcamp al igual que Carolina Covarrubias) ofrece **Office Hours** para quien quiera entender mejor la metodología o trabajar ciertos aspectos, ayudar con situaciones específicas de algún bloque etc.
+- Horario OH: Martes y Jueves, 11:15 a 12:15 hora SCL
+- Si se necesita en otro horario u otros días, conversarlo directamente con él, es un amor y súper dispuesto a ayudar en lo que se necesite.
+
 ## Modelo ongoing
 
 Con este nuevo modelo llevado a cabo en SCL el bootcamp de 6 meses se divide en 3 bloques donde cada uno tiene una duración de 2 meses.
