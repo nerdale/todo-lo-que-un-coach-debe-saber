@@ -25,7 +25,7 @@ La idea de este proyecto es ser un estilo de "guía" donde se documentará paso 
 En Laboratoria se aprende haciendo. Nuestras estudiantes se enfrentan a una [Ruta de Aprendizaje](https://docs.google.com/presentation/d/1mNrYuTiUmwtaYF5D0Y9hIuq0BL6-4tG8Dx0VnOn1G9A/edit?zx=d8fapwpt1bdy#slide=id.g48053b0010_0_3) que está formada por un conjunto de proyectos que simulan situaciones del mundo real (no académico) y deben ir resolviendo durante todo el Bootcamp. Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de enfrentar su solución.
 Te invito a leer más sobre todo el proceso en nuestra [wiki](https://sites.google.com/laboratoria.la/wiki).
 
-Los coaches deben tener la capacidad y flexibilidad de adaptarse a las necesidades de las estudiantes, para esto Diego Vélez (Product Manager Bootcamp al igual que Carolina Covarrubias) ofrece **Office Hours** para quien quiera entender mejor la metodología o trabajar ciertos aspectos, ayudar con situaciones específicas de algún bloque etc.
+Los coaches deben tener la capacidad y flexibilidad de adaptarse a las necesidades de las estudiantes, para esto Diego Vélez *(Product Manager Bootcamp al igual que Carolina Covarrubias)* ofrece **Office Hours** para quien quiera entender mejor la metodología o trabajar ciertos aspectos, ayudar con situaciones específicas de algún bloque etc.
 - Horario OH: Martes y Jueves, 11:15 a 12:15 hora SCL
 - Si se necesita en otro horario u otros días, conversarlo directamente con él, es un amor y súper dispuesto a ayudar en lo que se necesite.
 
@@ -55,20 +55,20 @@ Con este nuevo modelo llevado a cabo en SCL el bootcamp de 6 meses se divide en 
 El modelo ongoing trae múliples beneficios a las estudiantes, proceso de colocación laboral y a los coaches. La idea es que estos últimos puedan tener la flexibilidad de moverse una vez terminado un específico bloque hacia otro, conociendo a estudiantes de otras generaciones y en otros momentos del bootcamp, las cuales cuentan con necesidades específicas en tiempos específicos.
 
 * **Common Core:** 
-    * 2 coaches front end, lxs que reciben apoyo constante de las coaches UX.
-    * Horario: 8:00 a 13:00
+    - 2 coaches front end, lxs que reciben apoyo constante de las coaches UX.
+    - Horario: 8:00 a 13:00
 
 * **Track FE 1:** 
-    * 2 coaches front end.
-    * Horario: 13:30 a 18:30
+    - 2 coaches front end.
+    - Horario: 13:30 a 18:30
 
 * **Track FE 2:**
-    * 2 coaches front end.
-    * Horario: 13:30 a 18:30
+    - 2 coaches front end.
+    - Horario: 13:30 a 18:30
 
 * **Track UX 1 y 2:** 
-    * Las coaches se mueven entre ambos grupos, dándole dinamismo y flexibilidad al track. De la misma manera realizan algunos talleres durante el common core para que las estudiantes durante los primeros dos meses conozcan ambos mundos.
-    * Horario: 8:30 a 13:30
+    - Las coaches se mueven entre ambos grupos, dándole dinamismo y flexibilidad al track. De la misma manera realizan algunos talleres durante el common core para que las estudiantes durante los primeros dos meses conozcan ambos mundos.
+    - Horario: 8:30 a 13:30
 
 ***
 
@@ -103,9 +103,9 @@ Además reciben talleres técnicos con contenidos **front end / ux** por sus coa
 
 * Durante pre admisión y entrevistas técnicas se debe observar en las postulantes no solo el nivel técnico sino que también la forma en que se desenvuelven con sus compañeras y pareja de proyecto. Lo ideal es visualizar rápidamente casos que:
 
-    * Tengan muy mala actitud con compañeras y/o equipo, lo que potencialmente puede terminar en un elemento de conflicto en el día a día.
+    - Tengan muy mala actitud con compañeras y/o equipo, lo que potencialmente puede terminar en un elemento de conflicto en el día a día.
 
-    * Nivel técnico extremadamente bajo con pocas o nulas posibilidades de desarrollar.
+    - Nivel técnico extremadamente bajo con pocas o nulas posibilidades de desarrollar.
 
 Al final de la semana y con todos los resultados tanto tech como soft, todo el equipo de formación se reune en un *concilio* donde conversamos los casos uno a uno y finalmente determinar quienes son invitadas al bootcamp.
 
