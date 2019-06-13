@@ -23,6 +23,47 @@ La idea de este proyecto es ser un estilo de "guía" donde se documentará paso 
 En Laboratoria se aprende haciendo. Nuestras estudiantes se enfrentan a una [Ruta de Aprendizaje](https://docs.google.com/presentation/d/1mNrYuTiUmwtaYF5D0Y9hIuq0BL6-4tG8Dx0VnOn1G9A/edit?zx=d8fapwpt1bdy#slide=id.g48053b0010_0_3) que está formada por un conjunto de proyectos que simulan situaciones del mundo real (no académico) y deben ir resolviendo durante todo el Bootcamp. Por lo tanto son holísticos, se plantean dentro de un contexto y tienen múltiples maneras de enfrentar su solución.
 Te invito a leer más sobre todo el proceso en nuestra [wiki](https://sites.google.com/laboratoria.la/wiki).
 
+## Modelo ongoing
+
+Con este nuevo modelo llevado a cabo en SCL el bootcamp de 6 meses se divide en 3 bloques donde cada uno tiene una duración de 2 meses.
+
+> **Common Core:** 2 meses en los que se abarcan fundamentos de la programación e introducción a UX.
+
+*Aquí es donde se generan dos ramas: UX y Front End*
+
+***
+
+> **Track UX 1:** 2 meses donde se profundiza en los contenidos atingentes a la experiencia de usuario.
+
+> **Track UX 2:** 2 últimos meses donde se sigue profundizando en contenidos UX y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
+
+***
+
+> **Track Front End 1:** 2 meses donde se profundiza en los contenidos atingentes al mundo front.
+
+> **Track Front End 2:** 2 últimos meses donde se sigue profundizando en contenidos FE y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
+
+ 
+### ¿Como se dividen los coaches con este modelo?
+
+El modelo ongoing trae múliples beneficios a las estudiantes, proceso de colocación laboral y a los coaches. La idea es que estos últimos puedan tener la flexibilidad de moverse una vez terminado un específico bloque hacia otro, conociendo a estudiantes de otras generaciones y en otros momentos del bootcamp, las cuales cuentan con necesidades específicas en tiempos específicos.
+
+* **Common Core:** 
+    * 2 coaches front end, lxs que reciben apoyo constante de las coaches UX.
+    * Horario: 8:00 a 13:00
+
+* **Track FE 1:** 
+    * 2 coaches front end.
+    * Horario: 13:30 a 18:30
+
+* **Track FE 2:**
+    * 2 coaches front end.
+    * Horario: 13:30 a 18:30
+
+* **Track UX 1 y 2:** 
+    * Las coaches se mueven entre ambos grupos, dándole dinamismo y flexibilidad al track. De la misma manera realizan algunos talleres durante el common core para que las estudiantes durante los primeros dos meses conozcan ambos mundos.
+    * Horario: 8:30 a 13:30
+
 ***
 
 ## ¿Ser coach es solo responder dudas?
