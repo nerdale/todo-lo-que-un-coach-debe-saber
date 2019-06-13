@@ -37,6 +37,31 @@ Hace un tiempo conversamos ciertos lineamientos como coaches de SCL para cumplir
 
 * La idea es realizar talleres **según necesidades** de cada estudiante, para esto es esencial el visualizar día a día lo que va pasando en la sala de clases, mantener una comunicación efectiva para poder apoyar en el momento necesario. Se sugiere los talleres duren entre 45 y 60 minutos aproximadamente.
 
+## Pre admisión
+
+El proceso de selección consta de 4 etapas:
+
+* Exámenes
+* Pre trabajo
+* Entrevista
+* Pre admisión
+
+A todas las postulantes que terminan las 3 primeras etapas satisfactoriamente se les invita a **Pre admisión** donde podrán vivir la experiencia de aprendizaje que tenemos en Laboratoria durante 4 días, desde las 8:00 a 13:00, y también para que nosotrxs como equipo podamos corroborar que esten comprometidas con el proceso.
+
+Durante estos 4 días las postulantes son acompañadas constantemente por una dupla de coaches, quienes seguirán con ellas en el proceso del **Common Core**, las psicólogas y training manager.
+
+Además reciben talleres técnicos con contenidos **front end / ux** por sus coaches mientras realizan un proyecto en duplas llamado **Trivia**. Finalizados estos días se realizan entrevistas técnicas por todos los coaches de la sede.
+
+### ¿Que deben visualizar los coaches en esta última etapa?
+
+* Durante pre admisión y entrevistas técnicas se debe observar en las postulantes no solo el nivel técnico sino que también la forma en que se desenvuelven con sus compañeras y pareja de proyecto. Lo ideal es visualizar rápidamente casos que:
+
+    * Tengan muy mala actitud con compañeras y/o equipo, lo que potencialmente puede terminar en un elemento de conflicto en el día a día.
+
+    * Nivel técnico extremadamente bajo con pocas o nulas posibilidades de desarrollar.
+
+Al final de la semana y con todos los resultados tanto tech como soft, todo el equipo de formación se reune en un *concilio* donde conversamos los casos uno a uno y finalmente determinar quienes son invitadas al bootcamp.
+
 ## Tareas que se deben realizar al recibir un grupo nuevo
 
 * **Crear cohort y añadir miembros:** En el LMS se debe crear el cohort correspondiente al bloque que se está por comenzar, añadiendo a las estudiantes y al team formación, estos últimos como _admins_. Una vez creado el cohort se deben agregar los cursos correspondientes. (Los cohorts de otras generaciones sirven como guía).
