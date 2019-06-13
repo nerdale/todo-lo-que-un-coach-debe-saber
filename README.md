@@ -12,6 +12,7 @@
 * [Cómo funciona el día a día de un coach en SCL](#cómo-funciona-el-día-a-día-de-un-coach-en-SCL)
 * [Chapter Coaches](#chapter-coaches)
 * [Dev Chapter](#dev-chapter)
+* [UX Chapter](#UX-Chapter)
 
 ***
 ## ¿De que se trata este proyecto?
