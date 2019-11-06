@@ -32,23 +32,23 @@ Los coaches deben tener la capacidad y flexibilidad de adaptarse a las necesidad
 
 ## Modelo ongoing
 
-Con este nuevo modelo llevado a cabo en SCL el bootcamp de 6 meses se divide en 3 bloques donde cada uno tiene una duración de 2 meses.
+Con este nuevo modelo llevado a cabo en SCL el bootcamp de 6 meses se divide en 3 partes donde cada uno tiene una duración de 2 meses.
 
 > **Common Core:** 2 meses en los que se abarcan fundamentos de la programación e introducción a UX.
 
-*Aquí es donde se generan dos ramas: UX y Front End*
+*Aquí es donde se generan dos especializaciones: UX y Front End*
 
 ***
 
-> **Track UX 1:** 2 meses donde se profundiza en los contenidos atingentes a la experiencia de usuario.
+> **Etapa 1 de Especialización UX:** 2 meses donde se profundiza en los contenidos atingentes a la experiencia de usuario.
 
-> **Track UX 2:** 2 últimos meses donde se sigue profundizando en contenidos UX y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
+> **Etapa 2 de Especialización UX:** 2 últimos meses donde se sigue profundizando en contenidos UX y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
 
 ***
 
-> **Track Front End 1:** 2 meses donde se profundiza en los contenidos atingentes al mundo front.
+> **Etapa 1 de Especialización Front End:** 2 meses donde se profundiza en los contenidos atingentes al mundo front.
 
-> **Track Front End 2:** 2 últimos meses donde se sigue profundizando en contenidos FE y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
+> **Etapa 2 de Especialización Front End:** 2 últimos meses donde se sigue profundizando en contenidos FE y se comienza a trabajar un plan profesional ad portas al egreso del bootcamp.
 
  
 ### ¿Como se dividen los coaches con este modelo?
@@ -59,16 +59,16 @@ El modelo ongoing trae múliples beneficios a las estudiantes, proceso de coloca
     - 2 coaches front end, lxs que reciben apoyo constante de las coaches UX.
     - Horario: 8:00 a 13:00
 
-* **Track FE 1:** 
+* **Etapa 1 FE:** 
     - 2 coaches front end.
     - Horario: 13:30 a 18:30
 
-* **Track FE 2:**
+* **Etapa 2 FE:**
     - 2 coaches front end.
     - Horario: 13:30 a 18:30
 
-* **Track UX 1 y 2:** 
-    - Las coaches se mueven entre ambos grupos, dándole dinamismo y flexibilidad al track. De la misma manera realizan algunos talleres durante el common core para que las estudiantes durante los primeros dos meses conozcan ambos mundos.
+* **Etapas 1 y 2 UX:** 
+    - Las coaches se mueven entre ambos grupos, dándole dinamismo y flexibilidad a la especialización. De la misma manera realizan algunos talleres durante el common core para que las estudiantes durante los primeros dos meses conozcan ambos mundos.
     - Horario: 8:30 a 13:30
 
 ***
@@ -112,11 +112,11 @@ Al final de la semana y con todos los resultados tanto tech como soft, todo el e
 
 ## Tareas que se deben realizar al recibir un grupo nuevo
 
-* **Crear cohort y añadir miembros:** En el LMS se debe crear el cohort correspondiente al bloque que se está por comenzar, añadiendo a las estudiantes y al team formación, estos últimos como _admins_. Una vez creado el cohort se deben agregar los cursos correspondientes. (Los cohorts de otras generaciones sirven como guía).
+* **Crear cohort y añadir miembros:** En el LMS se debe crear el cohort correspondiente a la etapa que se está por comenzar, añadiendo a las estudiantes y al team formación, estos últimos como _admins_. Una vez creado el cohort se deben agregar los cursos correspondientes. (Los cohorts de otras generaciones sirven como guía).
 
 * **Revisar proyectos y fechas:** Ver los proyectos que se deben realizar, sus fechas y ojalá desarrollarlos para visualizar los temas que podrían ser complicados para las estudiantes.
 
-* **Planificar semana por semana cada proyecto:** Se debe planificar cada semana para que las estudiantes cada **Lunes** tengan claridad de lo que sucederá en los próximos días, esto incluye _talleres de soft skills_, _office hours ,tiempo de hacking, dailys, demos, presentaciones finales, retrospectivas_ etc.
+* **Planificar semana por semana cada proyecto:** Se debe planificar cada semana para que las estudiantes cada **Lunes** tengan claridad de lo que sucederá en los próximos días, esto incluye _talleres de soft skills_, _ayudantías ,tiempo de hacking, dailys, demos, presentaciones finales, retrospectivas_ etc.
 
 ## Cómo funciona el día a día de un coach en SCL
 
@@ -140,9 +140,9 @@ Al final de la semana y con todos los resultados tanto tech como soft, todo el e
 
 * **Enviar Project Checkout:** Terminado cada proyecto se debe enviar el formulario de **project checkout** correspondiente a la generación. Se debe asegurar que todas lo contesten y hacer un seguimiento del feedback recibido por cada estudiante.
 
-* **Office Hours fuera del horario de clases:** Estos son espacios extras de 2 horas 2 veces a la semana (total de 4 horas a la semana), donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. 
+* **Ayudantías fuera del horario de clases:** Estos son espacios extras de 2 horas 2 veces a la semana (total de 4 horas a la semana), donde las estudiantes van a resolver dudas o temas específicos que necesitan repasar. 
 
-* **Office Hours durante clases:** Espacios que se dan durante el horario de clases por una cantidad de tiempo específico para cada estudiante / equipo / squad.
+* **Ayudantías durante clases:** Espacios que se dan durante el horario de clases por una cantidad de tiempo específico para cada estudiante / equipo / squad.
 
 * **SENCE:** En el caso que el grupo se encuentre con SENCE, hay una serie de temas que resolver antes y durante el "senceo".
     - El primer día de **SENCE** se deben enrolar a las estudiantes una por una, si alguna faltó ese día, cuando vuelva se debe enrolar inmediatamente.
@@ -155,14 +155,14 @@ Al final de la semana y con todos los resultados tanto tech como soft, todo el e
 
     - Verificar que las estudiantes al terminar la jornada salgan del sistema, el coach enrolado es el último en salir de este e informar la asistencia en el programa.
     
-    - *Importante* Las estudiantes del track UX no sencean pues su flujo de trabajo se genera muchas veces fuera de Laboratoria, realizando testeos e investigaciones en terreno. 
+    - *Importante* Las estudiantes de la especialización UX no sencean pues su flujo de trabajo se genera muchas veces fuera de Laboratoria, realizando testeos e investigaciones en terreno. 
 
 
 ***
 
-### Chapter Coaches
+### Hangouts FE
 
-Cada 15 días se realiza el **Chapter de coaches** (días miércoles), espacio que intervala en los horarios AM y PM para que todos los coaches de distintos turnos puedan participar. Este es un chapter regional que se realiza a través de _hangouts_ y _youtube_ donde se conversan los updates de cada sede y algún tema específico que esté generando conversación en una o algunas sedes.
+Cada semana se realiza el **Hangouts de coaches Front End** (días miércoles), espacio que intervala en los horarios AM y PM para que todos los coaches de distintos turnos puedan participar. Este es un chapter regional que se realiza a través de _hangouts_ y _youtube_ donde se conversan los updates de cada sede y algún tema específico que esté generando conversación en una o algunas sedes.
 
 ### Dev Chapter
 
